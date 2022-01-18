@@ -12,3 +12,7 @@ git config --global user.name "Admin"
 git config --global user.email <youremailID>@gmail.com
 
 adding abhishek name 
+
+
+How to configure GitHub private repository with Jenkins.
+https://www.youtube.com/watch?v=kZquQaCbo5I
